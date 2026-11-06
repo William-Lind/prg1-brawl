@@ -1,7 +1,7 @@
 import random
 
 # Startvärdena väljer du själv.
-spelare_hp = 100
-fiende_hp = 80
+own_hp = 25000
+enemy_hp = 20000
 
 # Ditt första kort börjar här.
