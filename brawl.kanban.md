@@ -6,12 +6,6 @@
 
 ## To Do
 
-#### Krav: spelet börjar
-<!-- id: task-1793100000002-2 -->
-namnet frågas efter, båda har HP och startvärdena syns. För stort för ett pass, dela upp det i dina egna kort
-<!-- priority: high -->
-<!-- source: main.py:1 -->
-
 #### Krav: kampen
 <!-- id: task-1793100000003-3 -->
 båda slår med slumpad skada tills någon har noll HP, i en while med and. En besegrad slår inte tillbaka. Vinnaren skrivs ut. Dela upp det
@@ -54,14 +48,20 @@ svårare och svårare båtar efter varja nivå vilket kommer sluta mot ett slags
 
 ## In Progress
 
-#### Planera och skriv dina kort
-<!-- id: task-1793100000001-1 -->
-planering.md: ditt spel, planen och dina kort. Lägg in korten här. Visa läraren innan du skriver kod
-<!-- priority: critical -->
-<!-- source: planering.md:1 -->
+#### Krav: spelet börjar
+<!-- id: task-1793100000002-2 -->
+namnet frågas efter, båda har HP och startvärdena syns. För stort för ett pass, dela upp det i dina egna kort
+<!-- priority: high -->
+<!-- source: main.py:1 -->
 
 ## Done
 
 #### Forka repot
 <!-- id: task-1793100000000-0 -->
 forka och klona repot, öppna det i VS Code
+
+#### Planera och skriv dina kort
+<!-- id: task-1793100000001-1 -->
+planering.md: ditt spel, planen och dina kort. Lägg in korten här. Visa läraren innan du skriver kod
+<!-- priority: critical -->
+<!-- source: planering.md:1 -->
